@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">智能停车和反向寻车系统</string>
+
+    <string-array name="settingsact_lv_item_text">
+        <item>定位接口</item>
+    </string-array>
+
+    <string name="title_section1">我的位置</string>
+    <string name="title_section2">离线模式</string>
+    <string name="title_section3">取车提醒</string>
+    <string name="title_section4">定位接口</string>
+    <string name="title_section5">关于我们</string>
+    <string name="title_section6">退出软件</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_alter_loc_interface">更改接口</string>
+    <string name="iv_map_text">Map</string>
+    <string name="title_activity_search">搜索</string>
+    <string name="action_search">Search</string>
+    <string name="tv_search">搜索登机口，值机柜台，商店......</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
